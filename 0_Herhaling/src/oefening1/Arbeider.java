@@ -3,7 +3,7 @@ package oefening1;
 import java.text.DecimalFormat;
 
 public class Arbeider extends Werknemer {
-	//testing
+	//testing again
 	private double uurloon;
 	private int aantalUren;
 	DecimalFormat format = new DecimalFormat("#.###");
